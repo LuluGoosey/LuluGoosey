@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luu
+- 👋 Hi, I’m Lulu
 - 👀 I’m interested in drawing
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on (N/A)
 - 📫 How to reach me; (N/A)
 - 😄 Pronouns: She/Her
